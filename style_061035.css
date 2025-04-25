@@ -1,0 +1,51 @@
+.eee,tr,th,td,tb{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.o{
+  text-align: center;
+  color: Yellow;
+  font-family: Sans-Serif;
+}
+.Gj{
+  color: green;
+}
+.His{
+  color: yellow;
+}
+.TIK{
+  color: Gold;
+}
+.M{
+  color: Silver;
+}
+.Ang{
+  color: purple;
+}
+.Fiz{
+  color: brown;
+}
+.Bio{
+  color: grey;
+}
+.Gjeo{
+  color: orange;
+}
+.Fis{
+  color: blue;
+}
+.Fgj{
+  color: cyan;
+}
+.Pu{
+  color: red;
+}
+.Qy{
+  color: lime;
+}
+.Muz{
+  color: magenta;
+}
+.Art{
+  collapse: olive;
+}
