@@ -1,51 +1,67 @@
-.eee,tr,th,td,tb{
-    border: 2px solid black;
-    border-collapse: collapse;
+.eee,tr,th,td,td{
+  border: 2px solid black;
+  text-align: center;
+  font-size: 30px;
 }
 .o{
-  text-align: center;
-  color: Yellow;
-  font-family: Sans-Serif;
+text-align: center;
+color: Green;
+font-family: Sans-Serif;
+font-size: 30px;
 }
 .Gj{
-  color: green;
+color: green;
+font-size: 20px;
 }
 .His{
-  color: yellow;
+color: yellow;
+font-size: 20px;
 }
 .TIK{
-  color: Gold;
+color: Gold;
+font-size: 20px;
 }
 .M{
-  color: Silver;
+color: Silver;
+font-size: 20px;
 }
 .Ang{
-  color: purple;
+color: purple;
+font-size: 20px;
 }
 .Fiz{
-  color: brown;
+color: brown;
+font-size: 20px;
 }
 .Bio{
-  color: grey;
+color: grey;
+font-size: 20px;
 }
 .Gjeo{
-  color: orange;
+color: orange;
+font-size: 20px;
 }
 .Fis{
-  color: blue;
+color: blue;
+font-size: 20px;
 }
 .Fgj{
-  color: cyan;
+color: cyan;
+font-size: 20px;
 }
 .Pu{
-  color: red;
+color: red;
+font-size: 20px;
 }
 .Qy{
-  color: lime;
+color: lime;
+font-size: 20px;
 }
 .Muz{
-  color: magenta;
+color: magenta;
+font-size: 20px;
 }
 .Art{
-  collapse: olive;
+color: olive;
+font-size: 20px;
 }
